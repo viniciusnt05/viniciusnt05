@@ -9,7 +9,7 @@
   ## 🚀 Tecnologias  
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,node,git,github,java,php,laravel,phpstorm,vscode,mysql,notion,windows,ubuntu" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,java,php,laravel,postman,mysql,phpstorm,vscode,notion,windows,ubuntu" />
     </a>
   </p>
   
