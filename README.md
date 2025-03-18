@@ -17,6 +17,8 @@
   📚 Sempre em busca de novos aprendizados e desafios.  
 </div>
 
+#
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusnt05/viniciusnt05/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciusnt05/viniciusnt05/output/github-contribution-grid-snake-dark.svg">
