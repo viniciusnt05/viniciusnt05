@@ -10,20 +10,27 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,java,php,laravel,postman,mysql,phpstorm,vscode,notion,windows,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,java,php" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,postman,mysql,phpstorm,vscode,notion,windows,ubuntu" />
   </a>
 </p>
 
 ## 🚀 About Me
 
-- 🔭 **Web Developer & Technology Enthusiast**
-- 💡 Passionate about development, technology, and innovation
-- 📚 Always seeking new knowledge and challenges
-- 🌱 Currently expanding my skills in backend technologies
-- 🤝 Open to collaborations and interesting projects
+<p align="center">
+  🔭 <b>Web Developer & Technology Enthusiast</b><br>
+  💡 Passionate about development, technology, and innovation<br>
+  📚 Always seeking new knowledge and challenges<br>
+  🌱 Currently expanding my skills in backend technologies<br>
+  🤝 Open to collaborations and interesting projects
+</p>
 
 <p align="center">
-  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 ---
